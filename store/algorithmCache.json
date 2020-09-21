@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "algorithm": "bubble sort",
+      "topic": "time complexity",
+      "question": "what is the worst case time of bubble sort?",
+      "possibleAnswers": [
+        { "key": "A", "value": "O(n^2)" },
+        { "key": "B", "value": "O(n)" },
+        { "key": "C", "value": "O(log n)" },
+        { "key": "D", "value": "O(n log n)" }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "algorithm": "bubble sort",
+      "topic": "memory",
+      "question": "is bubble sort in-place",
+      "possibleAnswers": [
+        { "key": "A", "value": "yes" }, 
+        { "key": "B", "value": "no" }, 
+        { "key": "C", "value": "it depends" }],
+      "correctAnswer": "A"
+    }
+  ]
+}
